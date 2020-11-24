@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W00EGS1017331
   title: པད་གླིང་ལོ་རྒྱུས་དྲང་གཏམ
-  volume: ''
+  volume:
+    b4818dab30ce45c3b64858b3a857317f:
+      image_group_id: I00EGS1017333
+      title: Volume 1 of
+      volume_number: 1
+      total_pages: 204
   author: ''
+ebook_metadata:
+  title: པད་གླིང་ལོ་རྒྱུས་དྲང་གཏམ
+  author: ''
+  sku: P008021
+  cover: cover.jpg
+  layers:
+  - pagination
