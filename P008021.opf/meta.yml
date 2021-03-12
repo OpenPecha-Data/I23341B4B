@@ -5,11 +5,12 @@ source_metadata:
   title: པད་གླིང་ལོ་རྒྱུས་དྲང་གཏམ
   author: ''
   volumes:
-    ceae2d2493024422ad1c5b24c394cf07:
+    b4818dab30ce45c3b64858b3a857317f:
       image_group_id: I00EGS1017333
-      title: ''
+      title: Volume 1 of
       volume_number: 1
       total_pages: 204
+      base_file: v001.txt
 ebook_metadata:
   title: པད་གླིང་ལོ་རྒྱུས་དྲང་གཏམ
   author: ''
